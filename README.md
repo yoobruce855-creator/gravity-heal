@@ -195,3 +195,7 @@ API 키가 없다면 fallback 로직으로 기본 분석 결과를 제공합니�
 **Made with ❤️ using Google Antigravity**
 
 *당신의 마음 건강을 위한 AI 파트너*
+
+---
+
+**Last deployed**: 2026-01-23 04:02 KST
